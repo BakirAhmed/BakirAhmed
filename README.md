@@ -93,7 +93,7 @@ Je combine **trois compétences clés** : l'infrastructure cloud (AWS, Terraform
 - 📧 [ahmed.bakir@ecoles-epsi.net](mailto:ahmed.bakir@ecoles-epsi.net)
 - 📞 06 85 92 21 29
 - 📍 Lyon, France
-- 🔗 [Bakir Ahmed]([https://www.linkedin.com/in/ahmed-bk/])
+- 🔗 LinkedIn : [Bakir Ahmed]([https://www.linkedin.com/in/ahmed-bk/])
 - 🐙 GitHub : [Bakir Ahmed]([https://github.com/BakirAhmed])
 
 ---
