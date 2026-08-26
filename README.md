@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-Ingénieur en Génie des Communications et des Réseaux (ENIG Gabès), actuellement en Mastère Expert à l'EPSI Lyon.  
+Ingénieur en Génie des Communications et des Réseaux (ENIG Gabès), actuellement en Mastère Expert à l'EPSI Lyon.
 Je combine **trois compétences clés** : l'infrastructure cloud (AWS, Terraform, Docker), l'analyse de données (Python, ML, BI) et le développement full-stack.
 
 📍 **Objectif** : Mettre à profit cette double compétence Cloud & Data dans une alternance en tant que **Cloud Engineer**, **DevOps** ou **Data Engineer**.
@@ -19,8 +19,9 @@ Je combine **trois compétences clés** : l'infrastructure cloud (AWS, Terraform
 
 | Domaine | Technologies |
 |---------|--------------|
-| **Cloud AWS** | VPC, EC2, Lambda, API Gateway, S3, CloudFront, IAM, KMS, GuardDuty, Security Hub, CloudTrail, SNS, CloudWatch |
+| **Cloud AWS** | VPC, EC2, Lambda, API Gateway, S3, CloudFront, IAM, KMS, GuardDuty, Security Hub, CloudTrail, SNS, CloudWatch, Transit Gateway, WAF |
 | **Infrastructure as Code** | Terraform, GitHub Actions, Serverless Framework |
+| **Réseau** | BGP, OSPF, EIGRP, MPLS, VPN IPsec/BGP, Route 53 Resolver, Network Firewall |
 | **Conteneurs & OS** | Docker, Docker Compose, Linux (Ubuntu, Amazon Linux), Windows |
 | **Réseau & Sécurité** | SSH, Bastion, ALB, NAT Gateway, Security Groups, Session Manager, CCNA |
 | **Data & IA** | Python (Pandas, NumPy, Scikit-learn), Machine Learning (Random Forest, CatBoost, KNN), Power BI, Tableau |
@@ -33,11 +34,13 @@ Je combine **trois compétences clés** : l'infrastructure cloud (AWS, Terraform
 
 ### ☁️ Cloud & Infrastructure
 
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| **Infrastructure AWS scalable** | Provisionnement automatisé d'une infra HA : VPC multi-AZ, ALB, ASG (1-3 instances), bastion SSH, S3 | Terraform, AWS (VPC, ALB, ASG, S3, IAM) |
-| **Cloud Resume Challenge** | Site CV complet avec compteur serverless, CI/CD automatisé | AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), Terraform, GitHub Actions |
-| **Plateforme EMM sécurisée** | MDM Headwind sur EC2 avec sécurité cloud avancée | AWS (KMS, GuardDuty, Security Hub, Session Manager), Docker, Android |
+| Projet | Description | Technologies | Lien |
+|--------|-------------|--------------|------|
+| **🔗 Connectivité Hybride Cloud — Transit Gateway & VPN** | Architecture hub-and-spoke reliant un datacenter on-premise à 3 VPC (Dev/Staging/Prod) via Transit Gateway, VPN Site-to-Site IKEv2 + BGP, DNS hybride (Route 53 Resolver), inspection est-ouest (Network Firewall) | Terraform, AWS (Transit Gateway, VPN, Route 53 Resolver, Network Firewall, RAM), BGP | [Voir le repo](https://github.com/BakirAhmed/hybrid-cloud-transit-gateway-vpn) |
+| **🛡️ Architecture Sécurisée Multi-Tier — Defense in Depth** | Architecture 3-tiers (web/app/data) avec chiffrement KMS, rotation automatique des secrets RDS, détection de menaces GuardDuty, conformité CIS/PCI DSS via Security Hub, remédiation automatique AWS Config | Terraform, AWS (KMS, Secrets Manager, GuardDuty, Security Hub, Config, WAF, IAM/SCPs) | [Voir le repo](https://github.com/BakirAhmed/secure-multi-tier-defense-in-depth) |
+| **📄 Cloud Resume Challenge** | Site CV avec API REST et compteur de visiteurs 100% serverless (S3/CloudFront/Lambda/DynamoDB), infrastructure entièrement codée en Terraform et pipeline CI/CD GitHub Actions | AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB, Route53), Terraform, GitHub Actions | [Voir le repo](https://github.com/BakirAhmed/cloud-resume-challenge) |
+| **Infrastructure AWS scalable** | Provisionnement automatisé d'une infra HA : VPC multi-AZ, ALB, ASG (1-3 instances), bastion SSH, S3 | Terraform, AWS (VPC, ALB, ASG, S3, IAM) | — |
+| **Plateforme EMM sécurisée** | MDM Headwind sur EC2 avec sécurité cloud avancée | AWS (KMS, GuardDuty, Security Hub, Session Manager), Docker, Android | — |
 
 ### 📊 Data & IA
 
@@ -93,12 +96,9 @@ Je combine **trois compétences clés** : l'infrastructure cloud (AWS, Terraform
 - 📧 [ahmed.bakir@ecoles-epsi.net](mailto:ahmed.bakir@ecoles-epsi.net)
 - 📞 06 85 92 21 29
 - 📍 Lyon, France
-- 🔗 LinkedIn : [Bakir Ahmed]([https://www.linkedin.com/in/ahmed-bk/])
-- 🐙 GitHub : [Bakir Ahmed]([https://github.com/BakirAhmed])
+- 🔗 LinkedIn : [Bakir Ahmed](https://www.linkedin.com/in/ahmed-bk/)
+- 🐙 GitHub : [Bakir Ahmed](https://github.com/BakirAhmed)
 
 ---
-
-## 🛠️ Badges
-
 
 ⭐ *Ouvert à toute opportunité d'alternance en Cloud, DevOps, réseaux ou Data Engineering.*
