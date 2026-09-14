@@ -36,22 +36,22 @@ Provisionnement automatisé d'une infrastructure hautement disponible : VPC mult
 ### Infrastructure virtualisée et cloud multisite — Projet MSPR (ATP)
 Conception d'une infrastructure sécurisée sur 4 sites + cloud : pare-feu pfSense, annuaire Active Directory, partage de fichiers Nextcloud, VPN IPsec, tunnel L2 (PRA), supervision Zabbix et gestion de la mobilité (EMM). Projet validé par un jury professionnel.
 `pfSense` `Active Directory` `VPN IPsec` `Zabbix` `Nextcloud`
-*(lien du dépôt à ajouter)*
+
 
 ### [Plateforme EMM sécurisée — Headwind MDM](https://github.com/BakirAhmed/Plateforme-EMM-Securisee-Headwind-MDM-sur-AWS)
 Déploiement d'une solution de gestion de terminaux mobiles (MDM) auto-hébergée sur EC2, sécurisée par chiffrement KMS, versioning S3, journalisation CloudTrail et détection de menaces (GuardDuty, Security Hub). Administration sans SSH via Session Manager.
 `AWS (EC2, KMS, S3, CloudTrail, GuardDuty, Security Hub)` `Docker`
-*(lien du dépôt à ajouter)*
+
 
 ### [Cloud Resume Challenge — Infrastructure serverless full-stack](https://github.com/BakirAhmed/Cloud-Resume-Challenge-Infrastructure-Serverless-Full-Stack)
 Site web avec API REST et compteur de visiteurs 100% serverless (S3/CloudFront, Lambda/DynamoDB), infrastructure entièrement codée en Terraform et déployée via un pipeline CI/CD.
 `AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB, Route53)` `Terraform`
-*(lien du dépôt à ajouter — redéploiement prévu)*
+
 
 ### Configuration d'un réseau multi-sites BGP / MPLS IP VPN
 Mise en place d'un VPN IP sécurisé et optimisé entre plusieurs sites à l'aide des protocoles BGP et MPLS, avec analyse du trafic et validation des routes.
 `eNSP` `Wireshark` `BGP` `MPLS`
-*(lien du dépôt à ajouter)*
+
 
 ## 🧪 Autres projets (exploration personnelle)
 
