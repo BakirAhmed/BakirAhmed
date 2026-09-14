@@ -38,12 +38,12 @@ Conception d'une infrastructure sécurisée sur 4 sites + cloud : pare-feu pfSen
 `pfSense` `Active Directory` `VPN IPsec` `Zabbix` `Nextcloud`
 *(lien du dépôt à ajouter)*
 
-### Plateforme EMM sécurisée — Headwind MDM
+### [Plateforme EMM sécurisée — Headwind MDM](https://github.com/BakirAhmed/Plateforme-EMM-Securisee-Headwind-MDM-sur-AWS)
 Déploiement d'une solution de gestion de terminaux mobiles (MDM) auto-hébergée sur EC2, sécurisée par chiffrement KMS, versioning S3, journalisation CloudTrail et détection de menaces (GuardDuty, Security Hub). Administration sans SSH via Session Manager.
 `AWS (EC2, KMS, S3, CloudTrail, GuardDuty, Security Hub)` `Docker`
 *(lien du dépôt à ajouter)*
 
-### Cloud Resume Challenge — Infrastructure serverless full-stack
+### [Cloud Resume Challenge — Infrastructure serverless full-stack](https://github.com/BakirAhmed/Cloud-Resume-Challenge-Infrastructure-Serverless-Full-Stack)
 Site web avec API REST et compteur de visiteurs 100% serverless (S3/CloudFront, Lambda/DynamoDB), infrastructure entièrement codée en Terraform et déployée via un pipeline CI/CD.
 `AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB, Route53)` `Terraform`
 *(lien du dépôt à ajouter — redéploiement prévu)*
