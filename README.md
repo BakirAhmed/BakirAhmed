@@ -18,14 +18,14 @@
 
 ## 🛠️ Compétences
 
-**Systèmes & Virtualisation** : Linux, Windows Server, Active Directory, VMware vSphere/ESXi
-**Réseaux & Protocoles** : Cisco, Huawei, réseaux sans fil, BGP, OSPF, EIGRP, MPLS, DHCP
-**Sécurité** : Firewalls, IPsec, SSL/TLS, VPN, IAM
-**Cloud AWS** : EC2, VPC, S3, ALB, ASG, Lambda, API Gateway, DynamoDB, Route53, CloudFront, IAM, KMS, GuardDuty, Security Hub, CloudTrail, SNS, Session Manager
-**Infrastructure as Code & CI/CD** : Terraform, Jenkins
-**Conteneurisation & Supervision** : Docker, Docker Compose, Zabbix
-**Langages & Bases de données** : Python, Bash, Java, Spring Boot, Vue.js, MySQL, PostgreSQL
-**Méthodologies** : Scrum, Agile, UML
+- **Systèmes & Virtualisation** : Linux, Windows Server, Active Directory, VMware vSphere/ESXi
+- **Réseaux & Protocoles** : Cisco, Huawei, réseaux sans fil, BGP, OSPF, EIGRP, MPLS, DHCP
+- **Sécurité** : Firewalls, IPsec, SSL/TLS, VPN, IAM
+- **Cloud AWS** : EC2, VPC, S3, ALB, ASG, Lambda, API Gateway, DynamoDB, Route53, CloudFront, IAM, KMS, GuardDuty, Security Hub, CloudTrail, SNS, Session Manager
+- **Infrastructure as Code & CI/CD** : Terraform, Jenkins
+- **Conteneurisation & Supervision** : Docker, Docker Compose, Zabbix
+- **Langages & Bases de données** : Python, Bash, Java, Spring Boot, Vue.js, MySQL, PostgreSQL
+- **Méthodologies** : Scrum, Agile, UML
 
 ## 🏗️ Projets clés — Systèmes, Réseaux & Cloud
 
